@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[dj's blog]]></title>
+  <subtitle><![CDATA[技术博文 生活杂记 爱生活 爱技术]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://www.djhello.cn/"/>
+  <updated>2015-01-25T14:51:11.162Z</updated>
+  <id>http://www.djhello.cn/</id>
+  
+  <author>
+    <name><![CDATA[dj]]></name>
+    
+  </author>
+  
+  <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[欢迎访问dj的博客]]></title>
+    <link href="http://www.djhello.cn/2015/01/23/hello-world/"/>
+    <id>http://www.djhello.cn/2015/01/23/hello-world/</id>
+    <published>2015-01-23T14:17:04.000Z</published>
+    <updated>2015-01-25T14:37:48.000Z</updated>
+    <content type="html"><![CDATA[<p>欢迎访问 接下来会提供更多更丰富的内容</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>欢迎访问 接下来会提供更多更丰富的内容</p>
+]]>
+    </summary>
+    
+  </entry>
+  
+</feed>
