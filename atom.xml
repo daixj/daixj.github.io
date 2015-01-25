@@ -4,7 +4,7 @@
   <subtitle><![CDATA[技术博文 生活杂记 爱生活 爱技术]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://www.djhello.cn/"/>
-  <updated>2015-01-25T14:51:11.162Z</updated>
+  <updated>2015-01-25T15:18:08.397Z</updated>
   <id>http://www.djhello.cn/</id>
   
   <author>
@@ -16,10 +16,10 @@
   
   <entry>
     <title><![CDATA[欢迎访问dj的博客]]></title>
-    <link href="http://www.djhello.cn/2015/01/23/hello-world/"/>
-    <id>http://www.djhello.cn/2015/01/23/hello-world/</id>
-    <published>2015-01-23T14:17:04.000Z</published>
-    <updated>2015-01-25T14:37:48.000Z</updated>
+    <link href="http://www.djhello.cn/0000/01/01/hello-world/"/>
+    <id>http://www.djhello.cn/0000/01/01/hello-world/</id>
+    <published>-000001-12-31T16:00:00.000Z</published>
+    <updated>2015-01-25T15:00:15.000Z</updated>
     <content type="html"><![CDATA[<p>欢迎访问 接下来会提供更多更丰富的内容</p>
 ]]></content>
     <summary type="html">
